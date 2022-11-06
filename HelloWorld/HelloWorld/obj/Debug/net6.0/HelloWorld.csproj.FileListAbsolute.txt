@@ -1,0 +1,15 @@
+F:\Weston college courses\c#\projects\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+F:\Weston college courses\c#\projects\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+F:\Weston college courses\c#\projects\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+F:\Weston college courses\c#\projects\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+F:\Weston college courses\c#\projects\HelloWorld\HelloWorld\bin\Debug\net6.0\ref\HelloWorld.dll
+F:\Weston college courses\c#\projects\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+F:\Weston college courses\c#\projects\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+F:\Weston college courses\c#\projects\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+F:\Weston college courses\c#\projects\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+F:\Weston college courses\c#\projects\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+F:\Weston college courses\c#\projects\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+F:\Weston college courses\c#\projects\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+F:\Weston college courses\c#\projects\HelloWorld\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
+F:\Weston college courses\c#\projects\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+F:\Weston college courses\c#\projects\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache

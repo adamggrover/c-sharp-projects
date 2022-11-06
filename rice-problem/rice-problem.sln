@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rice-problem", "rice-problem\rice-problem.csproj", "{3EE92E6F-EAE8-4241-8549-D6BC89A68321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EE92E6F-EAE8-4241-8549-D6BC89A68321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE92E6F-EAE8-4241-8549-D6BC89A68321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE92E6F-EAE8-4241-8549-D6BC89A68321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE92E6F-EAE8-4241-8549-D6BC89A68321}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79036211-DE8D-4490-8CFA-E9084C42B048}
+	EndGlobalSection
+EndGlobal

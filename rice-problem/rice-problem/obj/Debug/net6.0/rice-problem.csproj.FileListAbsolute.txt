@@ -1,0 +1,15 @@
+F:\Weston college courses\c#\projects\rice-problem\rice-problem\bin\Debug\net6.0\rice-problem.exe
+F:\Weston college courses\c#\projects\rice-problem\rice-problem\bin\Debug\net6.0\rice-problem.deps.json
+F:\Weston college courses\c#\projects\rice-problem\rice-problem\bin\Debug\net6.0\rice-problem.runtimeconfig.json
+F:\Weston college courses\c#\projects\rice-problem\rice-problem\bin\Debug\net6.0\rice-problem.dll
+F:\Weston college courses\c#\projects\rice-problem\rice-problem\bin\Debug\net6.0\ref\rice-problem.dll
+F:\Weston college courses\c#\projects\rice-problem\rice-problem\bin\Debug\net6.0\rice-problem.pdb
+F:\Weston college courses\c#\projects\rice-problem\rice-problem\obj\Debug\net6.0\rice-problem.csproj.AssemblyReference.cache
+F:\Weston college courses\c#\projects\rice-problem\rice-problem\obj\Debug\net6.0\rice-problem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Weston college courses\c#\projects\rice-problem\rice-problem\obj\Debug\net6.0\rice-problem.AssemblyInfoInputs.cache
+F:\Weston college courses\c#\projects\rice-problem\rice-problem\obj\Debug\net6.0\rice-problem.AssemblyInfo.cs
+F:\Weston college courses\c#\projects\rice-problem\rice-problem\obj\Debug\net6.0\rice-problem.csproj.CoreCompileInputs.cache
+F:\Weston college courses\c#\projects\rice-problem\rice-problem\obj\Debug\net6.0\rice-problem.dll
+F:\Weston college courses\c#\projects\rice-problem\rice-problem\obj\Debug\net6.0\ref\rice-problem.dll
+F:\Weston college courses\c#\projects\rice-problem\rice-problem\obj\Debug\net6.0\rice-problem.pdb
+F:\Weston college courses\c#\projects\rice-problem\rice-problem\obj\Debug\net6.0\rice-problem.genruntimeconfig.cache
